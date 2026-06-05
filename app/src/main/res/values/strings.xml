@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Snapscan</string>
+    <string name="scan_now">Start Scanning</string>
+    <string name="extract_text">Extract Text (OCR)</string>
+    <string name="snapscan_title">Snapscan</string>
+    <string name="snapscan_desc">Scan documents, receipts &amp; notes instantly</string>
+    <string name="ocr_completed">OCR Completed</string>
+    <string name="no_text_detected">No text detected.</string>
+    <string name="share_scan">Share Scan</string>
+    <string name="tags_hint">Add tags (e.g. #receipt, #work)</string>
+    <string name="scanned_image_desc">Scanned document preview</string>
+    <string name="save_finish">Save &amp; Finish</string>
+    <string name="scan_saved">Scan saved with tags!</string>
+</resources>
